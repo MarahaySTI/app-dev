@@ -1,6 +1,6 @@
-# app-dev
+## app-dev
 
-# H1 **Scary Movie**
+# **Scary Movie**
 
 It is a comedy that parodies popular horror films rather than being scary itself.
 
